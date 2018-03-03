@@ -1,6 +1,6 @@
 # Form Validation 2
 <p>Create and validate a form in PHP, validating with regular expressions on the server side.</p>
-<p><a href="http://lianxiao.dev.fast.sheridanc.on.ca/xiaoyu/FormValidation2/index.php">See it</a></p>
+<p><a href="http://lianxiao.dev.fast.sheridanc.on.ca/xiaoyu/FormValidation2/index.php">Demo</a></p>
 There has:
 <ul>
   <li>A css file which contains all of my style code</li>
